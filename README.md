@@ -28,5 +28,3 @@ pip install -r requirements.txt
 - Matplotlib
 - Scikit-learn
 
-## License
-This project is for educational purposes.
